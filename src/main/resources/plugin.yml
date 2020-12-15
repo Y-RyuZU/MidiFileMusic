@@ -1,0 +1,9 @@
+name: MidiFileMusic
+version: ${project.version}
+main: midifilemusic.midifilemusic.MidiFileMusic
+description: MidiFileを音ブロックに変換します
+
+commands:
+  mfm:
+    usage:  /mfm
+    description: MidiFileMusicの略 MidiFileMusicの様々な設定ができる
